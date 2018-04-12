@@ -33,12 +33,12 @@ Some further tips to avoid breaking the game:
    removed after the program has run
 
 If something goes wrong, you should be able to just replace the
-`0a0000.win32.index` file from the backup and everything should still
+`0a0000.win32.dat0` file from the backup and everything should still
 work.
 
 
 License
 -------
-The code is released in public domain, or under
+The code is released in public domain, or
 [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/)
 if you need an actual license for legal purposes.
