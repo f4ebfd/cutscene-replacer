@@ -20,7 +20,7 @@ public class ReplaceCutscenes {
 		String cutsceneFile = "cutscene_0.exd";
 
 		String helpMsg = "<html><body>Are you sure you want to do this, Dave?<br>" +
-			"More info at: http://www.github.com/.../.../<body></html>";
+			"More info at: https://github.com/f4ebfd/cutscene-replacer <body></html>";
 		String titleMsg = "Cutscene Replacer";
 
 		int r = JOptionPane.showConfirmDialog(null, helpMsg, titleMsg, JOptionPane.YES_NO_OPTION);
